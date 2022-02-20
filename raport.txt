@@ -1,0 +1,7 @@
+Założenia:
+1) Zgodnie z informacjami, które znalazłam przyjmuję, że każda sekwencja w pliku FASTA rozpoczyna się od znaku ">".
+2) Przyjmuję, że przy liczeniu długości sekwencji nie wliczam cyfr i pustych znaków.
+3) Przyjmuję, że jedna sekwencja zaczyna się w drugiej linii po lini ze znakiem ">", a kończy się w lini przed kolejnym znakiem ">" lub w ostatniej lini pliku.
+4) Przyjmuję, że plik nie może zawierać pustych linii.
+
+Wątpliwości:
